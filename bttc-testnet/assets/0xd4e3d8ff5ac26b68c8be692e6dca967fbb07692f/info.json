@@ -1,0 +1,14 @@
+
+   
+{
+    "name": "Sun Token",
+    "website": "https://sun.io/#/home",
+    "description": "First integrated platform for stablecoin swap, stake-mining, and self-governance on TRON",
+    "explorer": "https://testscan.bt.io/#/contract/0xd4e3d8ff5ac26b68c8be692e6dca967fbb07692f",
+    "research": "https://sun.io/docs/SUN_V2_Whitepaper_en.pdf",
+    "type": "ERC20",
+    "symbol": "SUN",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xd4e3d8ff5ac26b68c8be692e6dca967fbb07692f"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "WBTT",
+    "symbol": "WBTT",
+    "type": "ERC20",
+    "decimals": 18,
+    "description": "-",
+    "website": "https://www.bittorrent.com/token/btt/",
+    "explorer": "https://testscan.bt.io/#/contract/0x6e9240b4b93f905da9d1d41db6d7315cbcd9e615",
+    "status": "active",
+    "id": "0x6e9240b4b93f905da9d1d41db6d7315cbcd9e615"
+}
