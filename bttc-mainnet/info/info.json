@@ -1,0 +1,29 @@
+{
+    "name": "BitTorrent Tokens",
+    "website": "https://www.bittorrent.com/token/btt/",
+    "description": "BTTC is an extension of the public blockchain. It's a proof-of-stake (PoS) chain that supports Ethereum's existing features while also being speedier and with cheaper transaction fees.",
+    "explorer": "https://scan.bt.io/",
+    "research": "https://doc.bt.io/v1/doc/",
+    "symbol": "BTT",
+    "type": "coin",
+    "decimals": 18,
+    "status": "active",
+    "links": [
+        {
+            "name": "github",
+            "url": "https://github.com/bttcprotocol"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/BitTorrent"
+        },
+        {
+            "name": "reddit",
+            "url": "https://www.reddit.com/r/BittorrentToken/"
+        },
+        {
+            "name": "whitepaper",
+            "url": "https://tron.network/static/doc/BitTorrent-ChainWhitepaper_EN.pdf"
+        }
+    ]
+}
