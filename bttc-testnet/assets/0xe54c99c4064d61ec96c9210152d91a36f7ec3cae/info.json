@@ -1,0 +1,12 @@
+{
+    "name": "tBTC",
+    "website": "https://www.kraken.com/en-gb/learn/what-is-tbtc",
+    "description": "tBTC is an application on the Keep Network that was developed by the software firm Thesis, who previously created the Keep Network. ",
+    "explorer": "https://testscan.bt.io/#/contract/0xe54c99c4064d61ec96c9210152d91a36f7ec3cae",
+    "research": "https://www.kraken.com/en-gb/learn/",
+    "type": "ERC20",
+    "symbol": "TBTC",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xe54c99c4064d61ec96c9210152d91a36f7ec3cae"
+}

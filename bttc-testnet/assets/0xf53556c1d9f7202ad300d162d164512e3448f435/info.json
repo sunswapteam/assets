@@ -1,0 +1,12 @@
+{
+    "name": "Dai",
+    "website": "https://makerdao.com/en/",
+    "description": "MakerDAO enables the generation of Dai, the world's first unbiased currency and leading decentralized stablecoin.",
+    "explorer": "https://testscan.bt.io/#/contract/0xf53556c1d9f7202ad300d162d164512e3448f435",
+    "research": "https://docs.makerdao.com/",
+    "type": "ERC20",
+    "symbol": "DAI",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xf53556c1d9f7202ad300d162d164512e3448f435"
+}

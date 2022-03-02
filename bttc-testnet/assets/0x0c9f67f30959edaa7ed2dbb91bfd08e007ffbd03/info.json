@@ -1,0 +1,11 @@
+{
+    "name": "Wrapped Bitcoin",
+    "symbol": "WBTC",
+    "type": "ERC20",
+    "decimals": 18,
+    "description": "Wrapped Bitcoin (WBTC) is the first ERC20 token backed 1:1 with Bitcoin. Completely transparent. 100% verifiable. Community led.",
+    "website": "https://wbtc.network/",
+    "explorer": "https://testscan.bt.io/#/contract/0x0c9f67f30959edaa7ed2dbb91bfd08e007ffbd03",
+    "status": "active",
+    "id": "0x0c9f67f30959edaa7ed2dbb91bfd08e007ffbd03"
+}

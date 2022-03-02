@@ -1,0 +1,11 @@
+{
+    "name": "USD Coin",
+    "symbol": "USDC",
+    "type": "ERC20",
+    "decimals": 18,
+    "description": "-",
+    "website": "https://www.circle.com/en/usdc/",
+    "explorer": "https://testscan.bt.io/#/contract/0x5d8d1d85020acc7605e65dc841247dd0931c0a15",
+    "status": "active",
+    "id": "0x5d8d1d85020acc7605e65dc841247dd0931c0a15"
+}

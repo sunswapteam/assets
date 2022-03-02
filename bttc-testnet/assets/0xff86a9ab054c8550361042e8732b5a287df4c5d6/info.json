@@ -1,0 +1,12 @@
+{
+    "name": "Tether",
+    "website": "https://tether.to/en/",
+    "description": "Tether tokens are the most widely adopted stablecoins, having pioneered the concept in the digital token space. A disruptor to the conventional financial system and a trailblazer in the digital use of traditional currencies, Tether Tokens support and empower growing ventures and innovation throughout the blockchain space. Tether Tokens exist as a digital token built on multiple blockchains.",
+    "explorer": "https://testscan.bt.io/#/contract/0xff86a9ab054c8550361042e8732b5a287df4c5d6",
+    "research": "https://tether.to/en/how-it-works",
+    "type": "ERC20",
+    "symbol": "USDT",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xff86a9ab054c8550361042e8732b5a287df4c5d6"
+}
